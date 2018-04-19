@@ -1,0 +1,5 @@
+export { default as Button } from './button/button'
+export { default as Input} from './input/input'
+export { default as Select } from './select/select2'
+export { default as TextArea } from './textArea/textArea'
+export { default as Spinner } from './spinner/spinner'

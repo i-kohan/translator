@@ -1,0 +1,14 @@
+select {
+    height: 40%;
+    font-size: 22px;
+    font-weight: 300;
+    font-family: Cursive;
+    cursor: pointer;
+    border-top: 2px solid rgba(255,255,255,.5);
+    border-left: 2px solid rgba(255,255,255,.5);
+    border-bottom: none;
+    border-right: none;
+    box-sizing: border-box;
+    border-radius: 10px;
+    -webkit-appearance: none;
+}

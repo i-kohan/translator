@@ -1,0 +1,18 @@
+.language-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 30%;
+    height: 30%;
+    border: 2px solid rgba(255,255,255,.5);
+    border-radius: 10px;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.language-card:focus {
+    outline: none;
+    color: rgba(255,255,255,.75);
+    border-color: rgba(255,255,255,.75);
+}
